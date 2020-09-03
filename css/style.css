@@ -5,9 +5,21 @@
 
 .backone{
     
-    background-color: #02397f;
+    background-color: #1e3c61;
 }
 
 .photo{
     padding: 20px;
 }
+
+.footerback{
+    padding: 20px;
+    margin-top: -8px;
+    background-color: #1b2231;
+}
+
+ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
