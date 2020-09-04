@@ -23,3 +23,42 @@ ul.no-bullets {
     padding: 0; /* Remove padding */
     margin: 0; /* Remove margins */
   }
+
+.backtwo{
+    padding: 10px;
+  
+}
+
+.backone{
+    
+    background-color: #1e3c61;
+}
+
+.photo{
+    padding: 20px;
+}
+
+.footerback{
+    padding: 20px;
+    margin-top: -8px;
+    background-color: #1b2231;
+}
+
+ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+  }
+
+ .bg-dangr {
+    background-color: #1e3c61;
+}
+
+.input-group-text{
+    background-color: #f69d37;
+    
+}
+.hrback{
+    background-color: #f69d37;
+    height: 5px;
+}
